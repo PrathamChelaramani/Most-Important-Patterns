@@ -1,4 +1,4 @@
 # Most-Important-Patterns
 
 
-These are the star, number, and alphabet patterns that everyone should understand and practice it!!
+This is the mix of star, number, and alphabet patterns that everyone should understand and practice it!!
